@@ -1,4 +1,4 @@
-# TGIF2018
+# Machine Learning Lessons for Geophysics
 
 [Leonardo Uieda](http://leouieda.com/)
 
@@ -15,6 +15,23 @@ on October 12, 2018.
 
 ## Abstract
 
+Machine learning is the new trend sweeping across the Earth Sciences. From the oil and
+gas industry to oceanography, these algorithms are being trained to solve previously
+unsolvable (or extremely tedious) problems. But what exactly is "machine learning" and
+what can be done with it? In this talk, I will present a brief high-level overview of
+some of the core concepts and interesting applications of machine learning methods to
+geoscience data. I will also explore some of the best practices and techniques that can
+be applied to geophysical inversion and gridding methods, including a new method for
+gridding 3-component GPS data.
+
+![Sample application of ML in geophysics](flyer/flyer-image.png)
+*Example machine learning applications: (a) predicting facies from well logs (b)
+automatically tuned gridding of GPS velocities.*
+
+----
+
+*The facies prediction example (a) by Hall (2016; https://doi.org/10.1190/tle35100906.1)
+is licensed Creative Commons Attribution.*
 
 ## Notes
 
