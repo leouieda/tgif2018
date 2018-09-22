@@ -6,3 +6,4 @@
 **/.coverage
 **/.ipynb_checkpoints/
 **/dask-worker-space
+**/.~lock.*.docx#

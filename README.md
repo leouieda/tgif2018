@@ -3,7 +3,7 @@
 [Leonardo Uieda](http://leouieda.com/)
 
 TGIF Seminar given at the
-[Department of Geology and Geophysics](http://www.soest.hawaii.edu/GG/index.html)
+[Department of Earth Sciences](http://www.soest.hawaii.edu/GG/index.html)
 of the University of Hawaii at Manoa
 on October 12, 2018.
 
@@ -21,8 +21,8 @@ unsolvable (or extremely tedious) problems. But what exactly is "machine learnin
 what can be done with it? In this talk, I will present a brief high-level overview of
 some of the core concepts and interesting applications of machine learning methods to
 geoscience data. I will also explore some of the best practices and techniques that can
-be applied to geophysical inversion and gridding methods, including a new method for
-gridding 3-component GPS data.
+be applied to geophysical inversion and interpolation methods, including a new method
+for gridding 3-component GPS data.
 
 ![Sample application of ML in geophysics](flyer/flyer-image.png)
 *Example machine learning applications: (a) predicting facies from well logs (b)
