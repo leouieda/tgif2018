@@ -11,7 +11,7 @@ on October 12, 2018.
 |---:|:---|
 |Time|3:30 pm - Friday - October 12, 2018|
 |Room|723|
-|Slides|doi:[TBD](TBD)|
+|Slides|doi:[10.6084/m9.figshare.7203344](https://doi.org/10.6084/m9.figshare.7203344)|
 
 ## Abstract
 
@@ -35,6 +35,8 @@ is licensed Creative Commons Attribution.*
 
 ## Notes
 
+The slides were made in Google Docs. Fonts are Roboto Mono, Aldrich, and Barlow from
+Google Fonts.
 
 ## License
 
